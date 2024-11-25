@@ -37,7 +37,7 @@ export default function Index() {
             exploração ilimitada com Aora
           </Text>
           <CustomButton
-            title="Continuar com e-mail"
+            title="Continuar com E-mail"
             handlePress={() => {
               router.push("/sign-in");
             }}
